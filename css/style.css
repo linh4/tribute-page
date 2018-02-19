@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie|Special+Elite');
+
+body {
+  margin-top: 60px;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Special Elite', cursive;
+}
+
+h2 {
+  font-size: 37px;
+  color: #34495E;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: #D35400;
+}
+
+blockquote {
+  color: #34495E;
+}
+
+.caption {
+  font-szie: 15px;
+}
+
+hr {
+  border-top: 2px double #AEB6BF;
+  width: 100%;
+}
